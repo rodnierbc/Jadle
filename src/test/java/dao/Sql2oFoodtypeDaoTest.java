@@ -79,4 +79,5 @@ public class Sql2oFoodtypeDaoTest {
 
 
 
+
 }

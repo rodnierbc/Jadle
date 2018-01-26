@@ -18,4 +18,6 @@ public interface FoodtypeDao {
 
     //delete
     void deleteById(int id); //see above
+
+    Foodtype findById(int id);
 }
